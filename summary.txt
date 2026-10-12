@@ -1,0 +1,44 @@
+Summary for C:\Users\KevinGoye\Downloads\agob-1.36.0-beta.jar
+Decompiled with CFR 0.152
+
+
+trep.got.client.character.CharacterPreviewSkinResolver
+----------------------------
+
+composeFemaleSkin(net.minecraft.class_310 java.lang.String java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+trep.got.client.dialogue.DialogueSceneClientState
+----------------------------
+
+deliverQuest()
+  Unable to fully structure code
+
+
+trep.got.client.entity.FemaleNpcTextureManager
+----------------------------
+
+compose(net.minecraft.class_310 trep.got.character.NpcAppearanceProfile java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+trep.got.client.entity.VesselTextureManager
+----------------------------
+
+composeTexture(trep.got.entity.VesselVariant trep.got.entity.VesselMaterialProfile )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+trep.got.item.TentItem
+----------------------------
+
+method_7884(net.minecraft.class_1838 )
+  Unable to fully structure code
+
+
+trep.got.registry.GotCastles
+----------------------------
+
+advanceLandTravel(net.minecraft.class_3218 trep.got.registry.ActiveLandTravelSession net.minecraft.class_3222 net.minecraft.class_1297 net.minecraft.class_1496 net.minecraft.class_1496 trep.got.entity.AbstractKingdomCartRiderNpcEntity )
+  Unable to fully structure code
